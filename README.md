@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-=======
 # binary-search-tree
 
 ## DEMO
 
-
+![running the timing tests](./example/tree-timing.gif)
 
 ## Getting Started
 
@@ -15,4 +13,3 @@ Java - The programming language used to code the DS
 
 ### Bug Reports & Feature Requests
 Please use the [issue tracker](https://github.com/ryannamgung/binary-search-tree/issues) to report any issues or feature requests.
->>>>>>> 8cbba417d76c6aae978a9d2a5589faa82dd18cce
